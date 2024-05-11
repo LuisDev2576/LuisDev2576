@@ -2,14 +2,11 @@
 <p align="center"><picture><img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FDC85&center=true&vCenter=true&random=false&width=435&lines=%3CAndroid+Developer+Junior%3E;%2B2+years+experience."></p>
 
 # <picture><img src = "https://github.com/LuisDev2576/LuisDev2576/assets/123314822/021d5c82-4b9f-4e37-9270-9ef4d82290e9" width = 50px></picture> About me
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-- 🌱 I’m currently Working on Mobile App(React-Native)
-- 🤝 I’m available for freelancing.
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-- 💬 Ask me about **Reactjs & React-Native**
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 👨‍🚀 I’m 22 years old junior android developer.
+- 🌱 I’m currently learning Kotlin and Compose Multiplatform.
+- 👀 Open to full-time job offers.
+- 📫 How to reach me **luisdanielmartinezbarrios00@gmail.com** or <a href="https://wa.link/fwzfe8" target="blank">**+57 3135812313**</a>
+- 📄 Know about my experiences <a href="https://github.com/LuisDev2576" target="blank">Resume</a>
 
 # 🛠 &nbsp;Tech Stack 
 ![Static Badge](https://img.shields.io/badge/Figma-264653?style=for-the-badge&logo=figma)&nbsp;
