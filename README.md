@@ -45,9 +45,6 @@
 [![Static Badge](https://img.shields.io/badge/Play_Store-264653?style=for-the-badge&logo=googleplay)](https://github.com/LuisDev2576/Flagy)
 </a>
 </p>
-<p> desarrollada en Android Studio utilizando Kotlin y
-Jetpack Compose, diseñada para ofrecer una interfaz interactiva y educativa sobre
-información mundial. Con una integración fluida con APIs y diversas librerías, Flagy
-brinda una experiencia de usuario optimizada y atractiva para explorar datos sobre
-países</p>
+<p> 
+Developed in Android Studio using Kotlin and Jetpack Compose, designed to offer an interactive and educational interface on global information. With seamless integration with APIs and various libraries, Flagy provides an optimized and attractive user experience for exploring data about countries.</p>
 </div>
