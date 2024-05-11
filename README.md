@@ -27,43 +27,51 @@
 ![Static Badge](https://img.shields.io/badge/Compose_Multiplatform-264653?style=for-the-badge&logo=jetpackcompose)
 
 # 💾 &nbsp;Some of my projects!
-
 <table>
-<tr>
-<td width="50%">
-<p align="center"><strong>World Flags</strong></p>
-
-<div align="center">
-<a href="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/96b011d3-e9b0-4833-9fb3-23898de02a89" target="_blank"><img src="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/a38bf07f-c732-4c1e-a85b-9daa6a0a9d47" width="600" alt="World Flags"></a>
-<p>
+  <tr>
+  <!-- Primer columna -->
+   <td width="50%">
+    <div align="center">
+      <p><strong>World Flags</strong></p>
+      <a href="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/96b011d3-e9b0-4833-9fb3-23898de02a89" target="_blank">
+      <img src="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/a38bf07f-c732-4c1e-a85b-9daa6a0a9d47" width="600" alt="World Flags">
+      </a>
+      <br>
+      <p>
+       
+  [![Static Badge](https://img.shields.io/badge/Code-264653?style=for-the-badge&logo=github)](https://github.com/LuisDev2576/Flagy) </a>
+  [![Static Badge](https://img.shields.io/badge/Play_Store-264653?style=for-the-badge&logo=googleplay)](https://github.com/LuisDev2576/Flagy)</a>
+      <p>
+      Developed in Android Studio using Kotlin and Jetpack Compose, 
+      designed to offer an interactive and educational interface on 
+      global information. With seamless integration with APIs and various 
+      libraries, "World Flags" provides an optimized and attractive user 
+      experience for exploring data about countries.
+      </p>
+    </div>
+  </td>
   
-[![Static Badge](https://img.shields.io/badge/Code-264653?style=for-the-badge&logo=github)](https://github.com/LuisDev2576/Flagy)
-</a>
-[![Static Badge](https://img.shields.io/badge/Play_Store-264653?style=for-the-badge&logo=googleplay)](https://github.com/LuisDev2576/Flagy)
-</a>
-</p>
-<p> 
-Developed in Android Studio using Kotlin and Jetpack Compose, designed to offer an interactive and educational interface on global information. With seamless integration with APIs and various libraries, Flagy provides an optimized and attractive user experience for exploring data about countries.</p>
-</div>
-
-</td>
-
-<td width="50%">
-<p align="center"><strong>World Flags</strong></p>
-  
-<div align="center">                                       
-<a href="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/96b011d3-e9b0-4833-9fb3-23898de02a89" target="_blank"><img src="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/a38bf07f-c732-4c1e-a85b-9daa6a0a9d47" width="600" alt="World Flags"></a>
-<br>
-<p>
-
-[![Static Badge](https://img.shields.io/badge/Code-264653?style=for-the-badge&logo=github)](https://github.com/LuisDev2576/Flagy)
-</a>
-[![Static Badge](https://img.shields.io/badge/Play_Store-264653?style=for-the-badge&logo=googleplay)](https://github.com/LuisDev2576/Flagy)
-</a>
-</p>
-</p>Developed in Android Studio using Kotlin and Jetpack Compose, designed to offer an interactive and educational interface on global information. With seamless integration with APIs and various libraries, Flagy provides an optimized and attractive user experience for exploring data about countries.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+  <!-- Segunda columna -->
+  <td width="50%">
+    <div align="center">
+      <p><strong>World Flags</strong></p>
+      <a href="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/96b011d3-e9b0-4833-9fb3-23898de02a89" target="_blank">
+      <img src="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/a38bf07f-c732-4c1e-a85b-9daa6a0a9d47" width="600" alt="World Flags">
+      </a>
+      <br>
+      <p>
+       
+  [![Static Badge](https://img.shields.io/badge/Code-264653?style=for-the-badge&logo=github)](https://github.com/LuisDev2576/Flagy) </a>
+  [![Static Badge](https://img.shields.io/badge/Play_Store-264653?style=for-the-badge&logo=googleplay)](https://github.com/LuisDev2576/Flagy)</a>
+      <p>
+      Developed in Android Studio using Kotlin and Jetpack Compose, 
+      designed to offer an interactive and educational interface on 
+      global information. With seamless integration with APIs and various 
+      libraries, "World Flags" provides an optimized and attractive user 
+      experience for exploring data about countries.
+      </p>
+    </div>
+  </td>
+  </tr>
+</table>
 
