@@ -30,14 +30,14 @@
    <td width="50%">
     <div align="center">
       <p><strong>World Flags</strong></p>
-      <a href="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/96b011d3-e9b0-4833-9fb3-23898de02a89" target="_blank">
-      <img src="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/a38bf07f-c732-4c1e-a85b-9daa6a0a9d47" width="600" alt="World Flags">
+      <a href="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/fd84fb13-5787-4150-ad95-a17ae4c1c7e1" target="_blank">
+      <img src="https://github.com/LuisDev2576/LuisDev2576/assets/123314822/fd84fb13-5787-4150-ad95-a17ae4c1c7e1" width="600" alt="World Flags">
       </a>
       <br>
       <p>
        
-  [![Static Badge](https://img.shields.io/badge/Code-264653?style=for-the-badge&logo=github)](https://github.com/LuisDev2576/Flagy) </a>
-  [![Static Badge](https://img.shields.io/badge/Play_Store-264653?style=for-the-badge&logo=googleplay)](https://github.com/LuisDev2576/Flagy)</a>
+  [![Static Badge](https://img.shields.io/badge/Code-264653?style=for-the-badge&logo=github)](https://github.com/LuisDev2576/World_Flags) </a>
+  [![Static Badge](https://img.shields.io/badge/Play_Store-264653?style=for-the-badge&logo=googleplay)](https://github.com/LuisDev2576/World_Flags)</a>
       <p>
       Developed in Android Studio using Kotlin and Jetpack Compose, 
       designed to offer an interactive and educational interface on 
@@ -48,7 +48,7 @@
     </div>
   </td>
   
-  <!-- Segunda columna -->
+  <!-- Segunda columna 
   <td width="50%">
     <div align="center">
       <p><strong>World Flags</strong></p>
@@ -70,5 +70,6 @@
     </div>
   </td>
   </tr>
+  -->
 </table>
 
