@@ -37,7 +37,7 @@
       <p>
        
   [![Static Badge](https://img.shields.io/badge/Code-264653?style=for-the-badge&logo=github)](https://github.com/LuisDev2576/World_Flags) </a>
-  [![Static Badge](https://img.shields.io/badge/Play_Store-264653?style=for-the-badge&logo=googleplay)](https://github.com/LuisDev2576/World_Flags)</a>
+  [![Static Badge](https://img.shields.io/badge/Play_Store-264653?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.proyect.worldflags)</a>
       <p>
       Developed in Android Studio using Kotlin and Jetpack Compose, 
       designed to offer an interactive and educational interface on 
