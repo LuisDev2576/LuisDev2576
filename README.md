@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi, I'm Luis Daniel </b><picture><img src = "https://github.com/LuisDev2576/LuisDev2576/assets/123314822/dc8f0b0a-daa0-455c-84ef-a0ce3a897597" width = 35px></h1>
-<p align="center"><picture><img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FDC85&center=true&vCenter=true&random=false&width=435&lines=%3CAndroid+Developer%3E;%2B3+years+experience."></p>
+<p align="center"><picture><img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FDC85&center=true&vCenter=true&random=false&width=435&lines=%3CAndroid+Developer%3E;%2B5+years+experience."></p>
 
 # <picture><img src = "https://github.com/LuisDev2576/LuisDev2576/assets/123314822/021d5c82-4b9f-4e37-9270-9ef4d82290e9" width = 50px></picture> About me
 - 👨‍🚀 I’m 22 years old junior android developer.
