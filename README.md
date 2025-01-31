@@ -2,7 +2,7 @@
 <p align="center"><picture><img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FDC85&center=true&vCenter=true&random=false&width=435&lines=%3CAndroid+Developer%3E;%2B5+years+experience."></p>
 
 # <picture><img src = "https://github.com/LuisDev2576/LuisDev2576/assets/123314822/021d5c82-4b9f-4e37-9270-9ef4d82290e9" width = 50px></picture> About me
-- 👨‍🚀 I’m 23 years old junior android developer.
+- 👨‍🚀 I’m 23 years old android developer.
 - 🌱 I’m currently learning Kotlin and Compose Multiplatform.
 - 👀 Open to full-time job offers.
 - 📫 How to reach me **luisdanielmartinezbarrios00@gmail.com** or <a href="https://wa.link/fwzfe8" target="blank">**+57 3135812313**</a>
